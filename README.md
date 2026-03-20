@@ -1,1 +1,2 @@
 # Spark-2026-Interactive-Map
+This is a prototype of an interactive map of the most essential buoldings around campus which can be halpful to  new students who can easily be overwhelmed with the current gui presented by the university 
